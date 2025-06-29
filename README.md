@@ -1,3 +1,5 @@
+
+
 # Sine to Square Wave Converter and Amplifier
 
 > **Micro-project for Electronics and Communication Engineering**
@@ -41,10 +43,6 @@ v
 v
 [Square Wave]
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Results
@@ -60,7 +58,7 @@ Edit
 
 Below is a short clip of the simulated waveform transitions:
 
-> [🎥 Watch the simulation video](sim_demo.mp4)
+  [Upoading sine-to-square-bjt.mp4…](https://github.com/user-attachments/assets/a42fbcdf-98db-46c6-8ca9-1da4caf179a9)
 
 ---
 
