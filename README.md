@@ -34,13 +34,13 @@ This project implements a circuit to convert a sine wave into a square wave, the
 
 [Sine Wave]
 |
-v
+----
 [Comparator]
 |
-v
+----
 [BJT Amplifier]
 |
-v
+----
 [Square Wave]
 
 ---
