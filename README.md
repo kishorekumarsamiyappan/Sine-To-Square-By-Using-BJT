@@ -1,11 +1,6 @@
 
 
 # Sine to Square Wave Converter and Amplifier
-
-> **Micro-project for Electronics and Communication Engineering**
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ---
 
 This project implements a circuit to convert a sine wave into a square wave, then amplify the output using a BJT amplifier. This is useful in digital signal processing, clock generation, and audio applications.
@@ -32,17 +27,8 @@ This project implements a circuit to convert a sine wave into a square wave, the
 
 ## 📐 Block Diagram
 
-[Sine Wave]
-|
-----
-[Comparator]
-|
-----
-[BJT Amplifier]
-|
-----
-[Square Wave]
-
+  ![Flow Chart Whiteboard in Red Blue Basic Style](https://github.com/user-attachments/assets/cd7bfe9a-7aa8-4327-a10d-13343a7fdb4b)
+  
 ---
 
 ## 📊 Results
